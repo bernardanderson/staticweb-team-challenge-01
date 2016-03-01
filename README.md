@@ -1,4 +1,6 @@
-## Challenge \#1
+## The Static Web Team Challenge \#01
+
+###Description
 
 1. Create an HTML page that contains a text area and a button labeled *Create*.
 1. When the user enters in text into the text area and then clicks the create button, create a new card element in the DOM - similar to the quiz and group project. You decide the height/width of the card.
